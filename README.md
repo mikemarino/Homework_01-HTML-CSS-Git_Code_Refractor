@@ -3,11 +3,10 @@
 Hello - This repository will serve as homework assignment submission to the UPenn LPS Coding Bootcamp.  This assignment is intended to engage the student in the practice of refractoring an existing code base.  This specific refractoring exersice centered around a very important aspect of web developement: <strong>accessibility</strong>
 
 ## Table of Contents
-*Installation
-*Usage
-*Credits
-*License
-
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
 ## Installation
 
